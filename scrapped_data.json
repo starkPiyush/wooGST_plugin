@@ -1,0 +1,68 @@
+{
+  "introduction": "No. 1 WordPress GST Solution in India. Make GST Compliance Effortless for WooCommerce. Easily manage taxes and auto-generate e-invoices with WooCommerce GST Plugin.",
+  "plugin_overview": "WooGST Plugin helps streamline your business and simplify tax compliance with a fully GST-enabled WooCommerce store.",
+  "features": [
+    "Configure GST Setting – Ensures your WooCommerce store is compliant with GST regulations.",
+    "Add Your Own TAX Slab – Supports single and multiple tax slabs (5%, 10%, 15%, etc.).",
+    "Built-in Invoice Features – Easily generate and download GST-compliant customized invoices with store branding.",
+    "GST Enabled WooCommerce – Fully compatible with WooCommerce.",
+    "Easy Upload and Install – Simple plugin download, license key activation, and usage.",
+    "Product-wise GST – Apply GST taxes to products based on their individual tax rates.",
+    "Add HSN Code – Allows you to add HSN codes to your products.",
+    "Customize Invoice – Add store logo, name, address, and footer notes to invoice PDFs.",
+    "Generates tax slabs with CGST, SGST, and IGST.",
+    "PDF Invoice Generation – Auto-generate PDF invoices for each order."
+  ],
+  "installation_steps": [
+    "Purchase plugin – Download directly from the website.",
+    "Activate the plugin – Use the license key received via email.",
+    "Configuring tax slabs – Add single or multiple tax slabs as per product type.",
+    "Customize invoice – Add store name, logo, and notes in the invoice PDF footer."
+  ],
+  "faq": [
+    {
+      "question": "How to assign tax slab in GST Plugin?",
+      "answer": "Log in to your WordPress Admin → WooCommerce → Settings → Tools tab → Enable tax rates and calculations → Tax tab → GST Setting → Select multiple tax slabs and save changes."
+    },
+    {
+      "question": "Where can you use this plugin?",
+      "answer": "Applicable to all WooCommerce stores across industries like FMCG, electronics, pharmaceuticals, etc."
+    },
+    {
+      "question": "Is WooGST Plugin Pro support limited to a single domain?",
+      "answer": "Yes. WooGST Plugin Pro is intended for one domain but can also be used in a local development environment."
+    },
+    {
+      "question": "Do WooGST Plugin and WooGST Plugin Pro differ in features?",
+      "answer": "Yes. The Pro version includes lifetime updates, 1-year free support, custom invoice generation, and HSN code support."
+    },
+    {
+      "question": "What will be the invoice format?",
+      "answer": "You can view and download sample invoices from the website."
+    },
+    {
+      "question": "Is WooCommerce GST plugin compatible with High-Performance Order Storage (HPOS)?",
+      "answer": "Yes, by adding specific compatibility code in the `woocommerce-gst-addon.php` file."
+    }
+  ],
+  "pricing_plans": "Flexible pricing options with WooCommerce GST Plugin to meet different business needs.",
+  "support": "For any queries or concerns, contact the team. Technical support is available.",
+  "branding": {
+    "logo_url": "https://woocommercegst.co.in/wp-content/uploads/2019/01/logo-1.svg",
+    "socials": {
+      "facebook": "https://woocommercegst.co.in/wp-content/uploads/2019/10/facebook.svg",
+      "instagram": "https://woocommercegst.co.in/wp-content/uploads/2019/01/Instagram-2.png",
+      "youtube": "https://woocommercegst.co.in/wp-content/uploads/2019/01/youtube-1.png"
+    }
+  },
+  "sample_invoice_links": [
+    "https://woocommercegst.co.in/wp-content/themes/woogst_2019/icons/downloadinvoice.svg"
+  ],
+  "additional_notes": [
+    "Over 3000+ active downloads globally.",
+    "Supports CGST, SGST, and IGST compliance.",
+    "One-click GST setup.",
+    "Supports meta fields and automatic tax calculations.",
+    "Stay updated with new feature releases."
+  ]
+}

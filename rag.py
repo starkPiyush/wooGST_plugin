@@ -5,7 +5,7 @@ import numpy as np
 from openai import OpenAI
 
 # Load your JSON file
-with open("/home/stark/Desktop/Coding/scraped_chunks.json", "r") as f:
+with open("scraped_chunks.json", "r") as f:
     data = json.load(f)
 
 # Create a list of string chunks (e.g., key + value)

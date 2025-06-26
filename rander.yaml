@@ -7,4 +7,3 @@ services:
     envVars:
       - key: OPENAI_API_KEY
         value: 
-
